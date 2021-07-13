@@ -16,10 +16,18 @@
 
 #### **Screenshoots da página:**
 
-Home - Section One ()
+Home - Section One -> http://localhost:8080/ ou http://localhost:8080/#section-one ou adicione # na url
+ 
+![section one](https://raw.githubusercontent.com/vivyribeiro/hc-boas-praticas-starwars/master/src/assets/screenshoot/Home_Section_One.png)
 
-Home - Section Two ()
+Home - Section Two -> http://localhost:8080/ ou http://localhost:8080/#section-two 
 
-Jedi Page - Section Three ()
+![section two](https://raw.githubusercontent.com/vivyribeiro/hc-boas-praticas-starwars/master/src/assets/screenshoot/Home_Section_Two.png)
 
-Error404 Page ()
+Jedi Page - Section Three -> http://localhost:8080/#/jedi
+
+![jedi page](https://raw.githubusercontent.com/vivyribeiro/hc-boas-praticas-starwars/master/src/assets/screenshoot/Jedi_Page_Section_Three.png)
+
+Error404 Page -> http://localhost:8080/#/kjsbks
+
+![error page](https://raw.githubusercontent.com/vivyribeiro/hc-boas-praticas-starwars/master/src/assets/screenshoot/Error404_Page.png)
