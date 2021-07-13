@@ -1,11 +1,25 @@
-# SPA Star Wars
-## Programa Hiring Coders 
+# **SPA Star Wars**
 
-Template do projeto: https://github.com/mrdouglasmorais/template-node-fulljs
+## Programa Hiring Coders
 
-Projeto idealizado pelo professor Douglas Morais, no módulo de Boas Práticas. 
+### **Template do projeto:** https://github.com/mrdouglasmorais/template-node-fulljs
 
-Para fins didáticos, foi desenvolvida uma Single Page Application (SPA), tendo como tema Star Wars.
+<br>
 
+### Projeto idealizado pelo professor Douglas Morais, no módulo de Boas Práticas.
 
+<br>
 
+### Para fins didáticos, foi desenvolvida uma Single Page Application (SPA), tendo como tema Star Wars.
+
+<br>
+
+#### **Screenshoots da página:**
+
+Home - Section One ()
+
+Home - Section Two ()
+
+Jedi Page - Section Three ()
+
+Error404 Page ()
