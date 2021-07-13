@@ -6,7 +6,7 @@ let HomeSectionOne = `
     <div>
         <div class="container block-section--one">
             <h1>CLIQUE NO BABY YODA, ELE TE MOSTRARÁ O CAMINHO</h1>
-            <a href="/#/jedi">
+            <a href="#/jedi">
             <img src=${Logo} alt="Logo Start Wars" width="300px" heigth="auto">
             </a>
         </div>  
