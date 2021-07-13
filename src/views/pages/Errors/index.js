@@ -17,7 +17,7 @@ let error = `
 <div class="error-default">
     <div classss="container">
         <h1>erro 404!</h1>
-        <a href="../#">
+        <a href="/#">
             <img src="${darthError}" alt="Vader error">
         <a>
         <h2>Caro padawan, este contéudo não existe.</h2>
